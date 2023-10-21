@@ -1,4 +1,3 @@
-
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWidgets import QMainWindow
 from password import Ui_MainWindow
